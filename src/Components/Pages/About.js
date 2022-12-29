@@ -10,6 +10,7 @@ class About extends Component {
         </div>
         <div className='container'>
           <div className='row'>
+            
             <div className='col-md-6 mt-4'>
               <div style={{border:"1px solid black"}}>
                  <img src='./pharmasist.jpg' style={{width:"100%", height:"100%"}}/>
