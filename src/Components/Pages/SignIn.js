@@ -6,6 +6,7 @@ const SignIn = () => {
     const navigate = useNavigate();
     const linkHandler = (e) => {
         navigate('/forgot');
+        //
     }
 
     const [Password, setPassword] = useState("");
